@@ -4,7 +4,7 @@
   <artifactId>json-ignore-properties-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-  	<jackson-version>2.3.0</jackson-version>
+  	<jackson-version>2.10.3</jackson-version>
   </properties>
   <dependencies>
   	<dependency>
